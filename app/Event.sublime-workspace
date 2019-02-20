@@ -1,0 +1,348 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"la",
+				"label\t<label>"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"I",
+				"IFRAME\tTag"
+			],
+			[
+				"Add",
+				"AddNewFirstLookTraining"
+			],
+			[
+				"treas",
+				"treasurerSites"
+			],
+			[
+				"trea",
+				"treasurerSites"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"Sc",
+				"scripts"
+			],
+			[
+				"S",
+				"scripts"
+			],
+			[
+				"my",
+				"myController"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/stevencreekmore/Sites/links/resources/views/welcome.blade.php",
+		"/Users/stevencreekmore/Sites/links/resources/views/home.blade.php",
+		"/Users/stevencreekmore/Sites/links/app/Link.php",
+		"/Users/stevencreekmore/Sites/links/.env",
+		"/Users/stevencreekmore/Sites/fullcalendar/routes/web.php",
+		"/Users/stevencreekmore/Sites/fullcalendar/app/Event.sublime-workspace",
+		"/Users/stevencreekmore/Sites/myfirstsite/resources/views/projects/index.blade.php",
+		"/Users/stevencreekmore/Sites/myfirstsite/resources/views/layouts/app.blade.php",
+		"/Users/stevencreekmore/Sites/myfirstsite/app/Project.php",
+		"/Users/stevencreekmore/Sites/myfirstsite/app/Task.php",
+		"/Users/stevencreekmore/Sites/myfirstsite/resources/views/projects/edit.blade.php",
+		"/Users/stevencreekmore/Sites/myfirstsite/app/Http/Controllers/ProjectsController.php",
+		"/Users/stevencreekmore/Sites/myfirstsite/resources/views/projects/create.blade.php",
+		"/Users/stevencreekmore/Sites/myfirstsite/database/migrations/2019_02_10_122748_create_tasks_table.php",
+		"/Users/stevencreekmore/Sites/myfirstsite/resources/views/contact.blade.php",
+		"/Users/stevencreekmore/Sites/myfirstsite/resources/views/about.blade.php",
+		"/Users/stevencreekmore/Sites/myfirstsite/resources/views/welcome.blade.php",
+		"/Users/stevencreekmore/Sites/myfirstsite/app/Http/Controllers/PagesController.php",
+		"/Users/stevencreekmore/Sites/myfirstsite/.env",
+		"/Users/stevencreekmore/Sites/myfirstsite/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/Users/stevencreekmore/Sites/myfirstsite/database/migrations/2019_02_09_201147_create_projects_table.php",
+		"/Users/stevencreekmore/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/stevencreekmore/Desktop/ZeitplanDB.sql",
+		"/Users/stevencreekmore/Sites/zeitplan-orig/resources/views/layouts/app.blade.php",
+		"/Users/stevencreekmore/Sites/zeitplan-orig/config/app.php",
+		"/Users/stevencreekmore/Sites/Zeitplan/resources/views/welcome.blade.php",
+		"/Users/stevencreekmore/Sites/zeitplan/.env",
+		"/Users/stevencreekmore/Sites/zeitplan/database/migrations/2018_12_30_093732_create_tests_table.php",
+		"/Users/stevencreekmore/Sites/zeitplan/app/Test.php",
+		"/Users/stevencreekmore/Sites/zeitplan/app/Http/Controllers/TestsController.php",
+		"/Users/stevencreekmore/Sites/zeitplan/app/Http/Controllers/ResourceController.php",
+		"/Users/stevencreekmore/Sites/zeitplan/app/Resource.php",
+		"/Users/stevencreekmore/Sites/zeitplan/app/User.php",
+		"/Users/stevencreekmore/Sites/zeitplan/database/migrations/2018_12_30_074815_create_resource.php",
+		"/Users/stevencreekmore/Sites/zeitplan/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/Users/stevencreekmore/Sites/zeitplan/resources/views/inc/navbar.blade.php",
+		"/Users/stevencreekmore/Sites/zeitplan/resources/views/auth/register.blade.php",
+		"/Users/stevencreekmore/Sites/zeitplan/app/Http/Controllers/Auth/RegisterController.php",
+		"/Users/stevencreekmore/Sites/zeitplan/app/old_User.php",
+		"/Users/stevencreekmore/Sites/zeitplan/resources/views/posts/create.blade.php",
+		"/Users/stevencreekmore/Sites/zeitplan/resources/views/posts/edit.blade.php",
+		"/Users/stevencreekmore/Sites/zeitplan/resources/views/events/create.blade.php",
+		"/Users/stevencreekmore/Sites/zeitplan/resources/views/events/show.blade.php",
+		"/Users/stevencreekmore/Sites/zeitplan/app/Event.php",
+		"/Users/stevencreekmore/Sites/zeitplan/database/migrations/2018_12_27_073104_create_events_table.php",
+		"/Users/stevencreekmore/Sites/zeitplan/app/Http/Controllers/ZeitplansController.php",
+		"/Users/stevencreekmore/Sites/zeitplan/resources/views/inc/messages.blade.php",
+		"/Users/stevencreekmore/Sites/zeitplan/database/migrations/2018_12_25_233642_create_posts_table.php",
+		"/Users/stevencreekmore/Sites/zeitplan/app/Providers/AppServiceProvider.php",
+		"/Users/stevencreekmore/Sites/zeitplan/app/Http/Controllers/PostsController.php",
+		"/Users/stevencreekmore/Sites/zeitplan/config/app.php",
+		"/Users/stevencreekmore/Sites/zeitplan/resources/views/pages/eventpage.blade.php",
+		"/Users/stevencreekmore/Sites/zeitplan/database/migrations/2018_12_27_032502_add_cover_image_to_posts.php",
+		"/Users/stevencreekmore/Sites/zeitplan/resources/views/posts/index.blade.php",
+		"/Users/stevencreekmore/Sites/zeitplan/app/Post.php",
+		"/Users/stevencreekmore/Sites/zeitplan/app/Http/Controllers/Auth/VerificationController.php",
+		"/Users/stevencreekmore/Sites/zeitplan/routes/web.php",
+		"/Users/stevencreekmore/Sites/zeitplan/resources/views/layouts/app.blade.php",
+		"/Users/stevencreekmore/Sites/zeitplan/resources/views/posts/show.blade.php",
+		"/Users/stevencreekmore/Sites/zeitplan/app/Http/Controllers/DashboardController.php",
+		"/Users/stevencreekmore/Sites/zeitplan/database/migrations/2018_12_26_093529_add_user_id_to_posts.php",
+		"/Users/stevencreekmore/Sites/zeitplan/app/Http/Controllers/Auth/LoginController.php",
+		"/Users/stevencreekmore/Sites/zeitplan/app/Http/Controllers/Auth/ResetPasswordController.php",
+		"/Users/stevencreekmore/Sites/zeitplan/resources/views/dashboard.blade.php",
+		"/Users/stevencreekmore/Sites/zeitplan/database/migrations/2018_12_25_202258_create_zeitplans_table.php",
+		"/Users/stevencreekmore/Sites/zeitplan/app/Zeitplan.php",
+		"/Users/stevencreekmore/Sites/zeitplan/app/Http/Controllers/PagesController.php",
+		"/Users/stevencreekmore/Sites/zeitplan/resources/views/pages/help.blade.php",
+		"/Users/stevencreekmore/Sites/zeitplan/resources/views/pages/about.blade.php",
+		"/Users/stevencreekmore/Sites/zeitplan/resources/sass/_variables.scss",
+		"/Users/stevencreekmore/Sites/zeitplan/resources/views/pages/index.blade.php",
+		"/Users/stevencreekmore/Sites/booked/config/config.dist.php",
+		"/Users/stevencreekmore/Sites/booked/Web/index.php",
+		"/Users/stevencreekmore/Sites/booked/Pages/LoginPage.php",
+		"/Users/stevencreekmore/Sites/booked/Pages/Page.php",
+		"/Users/stevencreekmore/Sites/booked/tpl/globalheader.tpl",
+		"/Users/stevencreekmore/Sites/booked/config/config.php",
+		"/Users/stevencreekmore/Sites/booked/tpl/login.tpl",
+		"/Users/stevencreekmore/Sites/booked/lib/Application/Authentication/WebLoginContext.php",
+		"/Users/stevencreekmore/Sites/booked/lib/Application/Authentication/ILoginContext.php",
+		"/Users/stevencreekmore/Sites/booked/lib/Application/Authentication/namespace.php",
+		"/Users/stevencreekmore/Sites/booked/Pages/Authentication/ExternalAuthLoginPage.php",
+		"/Users/stevencreekmore/Sites/booked/Pages/Authentication/ILoginBasePage.php",
+		"/Users/stevencreekmore/Sites/booked/Presenters/LoginPresenter.php",
+		"/Users/stevencreekmore/Sites/booked/lib/Graphics/namespace.php",
+		"/Users/stevencreekmore/Sites/booked/lib/Graphics/Image.php",
+		"/Users/stevencreekmore/Sites/booked/lib/Graphics/ImageFactory.php",
+		"/Users/stevencreekmore/Sites/booked/lib/Config/namespace.php",
+		"/Users/stevencreekmore/Sites/booked/lib/Config/Configurator.php",
+		"/Users/stevencreekmore/Sites/booked/lib/Config/ConfigKeys.php",
+		"/Users/stevencreekmore/Sites/booked/Pages/IPage.php",
+		"/Users/stevencreekmore/Sites/booked/Pages/Pages.php",
+		"/Users/stevencreekmore/Sites/booked/lib/Config/Configuration.php",
+		"/Applications/MAMP/logs/apache_error.log",
+		"/Applications/MAMP/logs/php_error.log",
+		"/Users/stevencreekmore/Downloads/booked/config/config.php",
+		"/Users/stevencreekmore/Downloads/booked/config/config.dist.php",
+		"/Users/stevencreekmore/leads_cstm.sql",
+		"/Users/stevencreekmore/leads.sql",
+		"/Users/stevencreekmore/Sites/wantads/database/seeds/ThisAreaTableSeeder.php",
+		"/Users/stevencreekmore/Sites/wantads/resources/views/layouts/app.blade.php",
+		"/Users/stevencreekmore/Sites/wantads/resources/views/layouts/partials/_head.blade.php",
+		"/Users/stevencreekmore/Sites/wantads/resources/views/layouts/partials/_navigation.blade.php",
+		"/Users/stevencreekmore/Sites/wantads/config/app.php",
+		"/Users/stevencreekmore/Sites/wantads/.env",
+		"/Users/stevencreekmore/Sites/wantads/database/migrations/2018_01_15_051727_create_areas_table.php",
+		"/Users/stevencreekmore/Sites/pap/routes/web.php",
+		"/Users/stevencreekmore/Sites/pap/resources/views/layouts/partials/_navigation.blade.php",
+		"/Users/stevencreekmore/Sites/pap/app/Http/Controllers/channel/ChannelController.php",
+		"/Users/stevencreekmore/Sites/pap/resources/views/channel/index.blade.php",
+		"/Users/stevencreekmore/Sites/pap/resources/views/home.blade.php",
+		"/Users/stevencreekmore/Sites/pap/resources/views/channel/layouts/partials/_navigation.blade.php",
+		"/Users/stevencreekmore/Sites/pap/resources/views/layouts/app.blade.php",
+		"/Users/stevencreekmore/Sites/pap/resources/views/subscription/plans/teams/index.blade.php",
+		"/Users/stevencreekmore/Sites/pap/resources/views/subscription/plans/index.blade.php",
+		"/Users/stevencreekmore/Sites/pap/resources/views/account/subscription/swap/index.blade.php",
+		"/Users/stevencreekmore/Sites/pap/resources/views/account/twofactor/index.blade.php",
+		"/Users/stevencreekmore/Sites/pap/.env",
+		"/Users/stevencreekmore/Sites/pap/vendor/laravel/framework/src/Illuminate/Container/Container.php",
+		"/Users/stevencreekmore/Sites/pap/resources/views/account/layouts/partials/_navigation.blade.php",
+		"/Users/stevencreekmore/Sites/pap/resources/views/subscription/index.blade.php",
+		"/Users/stevencreekmore/Sites/pap/resources/views/account/index.blade.php",
+		"/Users/stevencreekmore/Sites/fresh/app/Http/Middleware/Subscription/RedirectIfNoTeamPlan.php",
+		"/Users/stevencreekmore/Sites/fresh/app/Http/Kernel.php",
+		"/Users/stevencreekmore/Sites/fresh/routes/web.php",
+		"/Users/stevencreekmore/Sites/fresh/app/Models/User.php",
+		"/Users/stevencreekmore/Sites/fresh/database/migrations/2018_01_01_021002_create_team_user_table.php",
+		"/Users/stevencreekmore/Sites/fresh/resources/views/account/index.blade.php"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Event.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"web",
+				"routes/web.php"
+			],
+			[
+				"popup",
+				"/Users/stevencreekmore/Dropbox/Justin Spensley/ResourcePage/Resources/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 185.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
